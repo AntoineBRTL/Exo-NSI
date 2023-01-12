@@ -1,0 +1,10 @@
+# recherche_dicotomique([0,1,1,2,3,5,8,13,21], 13)
+# recherche(t, 13, 0, 8)
+# recherche(t, 13, 5, 8)
+# recherche(t, 13, 7, 8)
+
+# recherche_dicotomique([0,1,1,2,3,5,8,13,21], 12)
+# recherche(t, 12, 0, 8)
+# recherche(t, 12, 5, 8)
+# recherche(t, 12, 7, 8)
+# recherche(t, 12, 7, 6)
